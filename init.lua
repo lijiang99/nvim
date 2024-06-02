@@ -25,3 +25,4 @@ require("lazy").setup({
 })
 
 require("config.defaults")
+require("config.compile")
